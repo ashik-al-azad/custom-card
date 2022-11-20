@@ -1,0 +1,31 @@
+.code-containers{
+   justify-content: center;
+   align-items: center;
+   padding: 10px;
+   box-sizing: border-box;
+   background-color: #5B96A1;
+   display: flex;
+   flex-wrap: wrap;
+}
+.code-area{
+   width: 250px;
+   text-align: center;
+   border: 1px solid #752bba;
+   background-color: #752B8A;
+   color: white;
+   margin: 10px;
+   padding: 5px;
+}
+.code-area:hover{
+   box-shadow: 5px 5px 5px #752B8A;
+}
+.code-img{
+   width: 250px;
+}
+.code-title{
+   font-size: 25px;
+   padding: 10px;
+}
+.code-para{
+   line-height: 1.5;
+}
