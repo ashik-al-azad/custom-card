@@ -1,0 +1,36 @@
+.service-list{
+  border-left: 1px solid #ddd;
+  border-top: 1px solid #ddd;
+}
+
+.single-service-box{
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 5%;
+  text-align: center;
+  font-size: 20px;
+  line-height: 2;
+}
+
+.single-service-box h2{
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+.single-service-box:hover{
+  box-shadow: 0 30px 100px #999;
+}
+
+.service-icon{
+  color: #dd4c40;
+  font-size: 30px;
+}
+
+.service-list .col-md-4{
+  padding: 0;
+}
+
+.service-list .row{
+  margin: 0;
+}
